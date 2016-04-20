@@ -1,7 +1,15 @@
 This is a fun little file 
+<<<<<<< HEAD
 1
 2
 3
 4
 5
+=======
+
+
+
+
+
+>>>>>>> 114ef84185bd533f077d5ca6b2e0fae78e8c1887
 no its not!
